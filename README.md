@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @guilhermer1b
-- 👀 I’m interested in Dev Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ..Dev Java
+- 🌱 I’m currently learning ..HTML ; CSS ; Python ; JavaScript ; Java
+- 📫 How to reach me ..Discord : vs0b
+- 😄 Pronouns: ..He/Him
+- ⚡ Fun fact: ..🤓
 
 <!---
 guilhermer1b/guilhermer1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
