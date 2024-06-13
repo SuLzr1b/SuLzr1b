@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ..Guilherme
 - 👀 I’m interested in ..Dev Java
-- 🌱 I’m currently learning ..HTML ; CSS ; Python ; JavaScript ; Java
+- 🌱 I’m currently learning ..Lua
 - 📫 How to reach me ..Discord : vs0b
 - 😄 Pronouns: ..He/Him
 - ⚡ Fun fact: ..🤓
