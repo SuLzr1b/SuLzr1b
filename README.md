@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 
-<p align="left" margin="100px"> <img src="https://komarev.com/ghpvc/?username=guilhermer1b&label=Profile%20views&color=0e75b6&style=flat" alt="purvesh77" /> </p>
+<p align="left" margin="100px"> <img src="https://komarev.com/ghpvc/?username=guilhermer1b&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermer1b" /> </p>
 
 - 🔭 I’m currently studying
 
